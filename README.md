@@ -1,2 +1,3 @@
 # vue-component-template
-Created with CodeSandbox
+
+vue component in action
